@@ -1,4 +1,4 @@
-📰 Portal de Notícias Tech
+## 📰 Portal de Notícias Tech
 
 Uma aplicação web moderna desenvolvida do zero com foco em experiência do usuário, organização de conteúdo e interface inspirada em grandes portais de notícias de tecnologia.
 
@@ -6,8 +6,11 @@ O projeto apresenta notícias organizadas por categorias, destaques visuais e um
 
 📸 Preview do Projeto
 
-Substitua o caminho acima pela imagem da sua página (recomendo salvar um print como preview.png dentro do repositório).
 
+<img width="1560" height="2870" alt="projeto portal dde notivias" src="https://github.com/user-attachments/assets/024472ed-455d-4f0b-9ab7-2419af8005ff" />
+
+
+## Sobre
 🔗 Acesse o projeto online:
 https://yansandalo.github.io/proj-portal-de-noticias/
 
@@ -23,6 +26,7 @@ Responsividade
 Componentização de layout
 Experiência do usuário (UX)
 Boas práticas de desenvolvimento
+
 🛠️ Tecnologias Utilizadas
 HTML5
 CSS3
